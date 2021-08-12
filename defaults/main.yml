@@ -1,0 +1,3 @@
+---
+npm_config_prefix: /usr/local
+sfdx_cli_version: 7.96.1

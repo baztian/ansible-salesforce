@@ -15,5 +15,5 @@ galaxy_info:
   galaxy_tags:
     - salesforce
     - sfdx
-    - sfdx-cli
+    - sfdxcli
 dependencies: []
